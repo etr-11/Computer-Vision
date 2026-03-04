@@ -1,0 +1,262 @@
+[
+  {
+    "slot_id": 1,
+    "edge_ratio": 0.0746031746031746,
+    "probability": 0.37301587301587297
+  },
+  {
+    "slot_id": 2,
+    "edge_ratio": 0.09603174603174604,
+    "probability": 0.4801587301587302
+  },
+  {
+    "slot_id": 3,
+    "edge_ratio": 0.20634920634920634,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 4,
+    "edge_ratio": 0.2492063492063492,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 5,
+    "edge_ratio": 0.24761904761904763,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 6,
+    "edge_ratio": 0.26904761904761904,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 7,
+    "edge_ratio": 0.0865079365079365,
+    "probability": 0.4325396825396825
+  },
+  {
+    "slot_id": 8,
+    "edge_ratio": 0.2007936507936508,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 9,
+    "edge_ratio": 0.10873015873015873,
+    "probability": 0.5436507936507936
+  },
+  {
+    "slot_id": 10,
+    "edge_ratio": 0.10238095238095238,
+    "probability": 0.5119047619047619
+  },
+  {
+    "slot_id": 11,
+    "edge_ratio": 0.176984126984127,
+    "probability": 0.8849206349206349
+  },
+  {
+    "slot_id": 12,
+    "edge_ratio": 0.2507936507936508,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 13,
+    "edge_ratio": 0.23095238095238096,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 14,
+    "edge_ratio": 0.21825396825396826,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 15,
+    "edge_ratio": 0.2222222222222222,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 16,
+    "edge_ratio": 0.2777777777777778,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 17,
+    "edge_ratio": 0.2761904761904762,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 18,
+    "edge_ratio": 0.1007936507936508,
+    "probability": 0.503968253968254
+  },
+  {
+    "slot_id": 19,
+    "edge_ratio": 0.25,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 20,
+    "edge_ratio": 0.25476190476190474,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 21,
+    "edge_ratio": 0.22698412698412698,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 22,
+    "edge_ratio": 0.27380952380952384,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 23,
+    "edge_ratio": 0.11587301587301588,
+    "probability": 0.5793650793650793
+  },
+  {
+    "slot_id": 24,
+    "edge_ratio": 0.2492063492063492,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 25,
+    "edge_ratio": 0.2634920634920635,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 27,
+    "edge_ratio": 0.23796296296296296,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 28,
+    "edge_ratio": 0.24814814814814815,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 29,
+    "edge_ratio": 0.18796296296296297,
+    "probability": 0.9398148148148148
+  },
+  {
+    "slot_id": 30,
+    "edge_ratio": 0.20833333333333334,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 31,
+    "edge_ratio": 0.21944444444444444,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 32,
+    "edge_ratio": 0.08148148148148149,
+    "probability": 0.40740740740740744
+  },
+  {
+    "slot_id": 33,
+    "edge_ratio": 0.21851851851851853,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 34,
+    "edge_ratio": 0.19814814814814816,
+    "probability": 0.9907407407407407
+  },
+  {
+    "slot_id": 35,
+    "edge_ratio": 0.10925925925925926,
+    "probability": 0.5462962962962963
+  },
+  {
+    "slot_id": 36,
+    "edge_ratio": 0.1675925925925926,
+    "probability": 0.8379629629629629
+  },
+  {
+    "slot_id": 37,
+    "edge_ratio": 0.14444444444444443,
+    "probability": 0.7222222222222221
+  },
+  {
+    "slot_id": 38,
+    "edge_ratio": 0.2388888888888889,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 39,
+    "edge_ratio": 0.06388888888888888,
+    "probability": 0.3194444444444444
+  },
+  {
+    "slot_id": 40,
+    "edge_ratio": 0.016666666666666666,
+    "probability": 0.08333333333333333
+  },
+  {
+    "slot_id": 41,
+    "edge_ratio": 0.22685185185185186,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 42,
+    "edge_ratio": 0.17962962962962964,
+    "probability": 0.8981481481481481
+  },
+  {
+    "slot_id": 43,
+    "edge_ratio": 0.07314814814814814,
+    "probability": 0.3657407407407407
+  },
+  {
+    "slot_id": 44,
+    "edge_ratio": 0.2037037037037037,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 45,
+    "edge_ratio": 0.175,
+    "probability": 0.8749999999999999
+  },
+  {
+    "slot_id": 46,
+    "edge_ratio": 0.09537037037037037,
+    "probability": 0.4768518518518518
+  },
+  {
+    "slot_id": 47,
+    "edge_ratio": 0.2175925925925926,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 48,
+    "edge_ratio": 0.25277777777777777,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 49,
+    "edge_ratio": 0.23703703703703705,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 50,
+    "edge_ratio": 0.2490740740740741,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 51,
+    "edge_ratio": 0.24722222222222223,
+    "probability": 1.0
+  },
+  {
+    "slot_id": 52,
+    "edge_ratio": 0.1962962962962963,
+    "probability": 0.9814814814814815
+  },
+  {
+    "slot_id": 53,
+    "edge_ratio": 0.05740740740740741,
+    "probability": 0.28703703703703703
+  }
+]
